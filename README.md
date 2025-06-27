@@ -133,8 +133,9 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♂️ Author
 
-**Shashi**  
-[LinkedIn](https://www.linkedin.com/in/shashi-rathee-282074217/) • [GitHub](https://github.com/shashirathee)
+**Sahil**  
+[LinkedIn](https://www.linkedin.com/in/tu-tu-1914112a5/) • [GitHub](https://github.com/sahilsan95)
+
 
 ---
 
