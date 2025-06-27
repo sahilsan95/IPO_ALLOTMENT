@@ -1,11 +1,11 @@
 
-# IPOTrust 🏛️
+# IPO_ALLOTMENT 🏛️
 
 A Blockchain-based IPO Allocation Framework that ensures **fairness**, **transparency**, and **privacy** using **Solidity smart contracts** on the Ethereum blockchain. Designed for SEBI and multiple registrars to collaboratively run a verifiable and tamper-proof lottery for IPO share allocation.
 
 ## 🧩 Overview
 
-IPOTrust decentralizes the traditional IPO allotment process using smart contracts. It ensures that applicants are selected through a verifiable lottery system, using multi-party cryptographic seeds for randomness. Privacy is maintained by storing only **SHA-256 hashed DMAT IDs** on-chain.
+IPO_ALLOTMENT decentralizes the traditional IPO allotment process using smart contracts. It ensures that applicants are selected through a verifiable lottery system, using multi-party cryptographic seeds for randomness. Privacy is maintained by storing only **SHA-256 hashed DMAT IDs** on-chain.
 
 ### Key Roles
 - **SEBI**: Deploys the contract, reviews results.
@@ -64,8 +64,8 @@ IPOTrust decentralizes the traditional IPO allotment process using smart contrac
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/shashirathee/ipo_trust.git
-   cd IPOTrust
+   git clone https://github.com/sahilsan95/IPO_ALLOTMENT.git
+   cd IPO_ALLOTMEnt
    ```
 
 2. **Install Dependencies**
